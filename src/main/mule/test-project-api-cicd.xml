@@ -17,7 +17,7 @@ output application/json
 ---
 {
 	"message": "It is deployed... success... well..done..!",
-	"time": now()
+	"time": now() as Date
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
