@@ -6,7 +6,7 @@
 
 	<groupId>be5ea5d7-7b8e-4724-b959-534409bdf9fc</groupId>
 	<artifactId>test-project-api-cicd</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
 
 	<name>test-project-api-cicd</name>
